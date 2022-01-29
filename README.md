@@ -12,7 +12,7 @@
 <p>
 
 ### Programming Languages that I am currently learning:
-  - C (5 years' experience, used in lectures and have studied for myself)
+  - C (6 years' experience, used in lectures and have studied for myself)
   - C# (a half year's experience, to create a software for my study)
   - Python (in total, a year's experience, mainly for data processing and analysis)
   - JavaScript (about a half year's experience, to study WebGL)
