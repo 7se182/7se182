@@ -1,11 +1,14 @@
-## About Me
+# About Me
 <p>
 
 - @7se182
 - A graduate student who is currently seeking master's degree in computer science.
 - I am interested in various programming languages.
+- I also like to learn new languages.
 </p>
 <br>
+
+## Programming Languages
 <p>
 
 ### Programming Languages that I am currently learning:
@@ -25,15 +28,24 @@
 </p>
 <br>  
 
+## Languages 
 <p>
-
-#### I also like to learn languages.  
+  
 ### Languages that I have learned:
   - Japanese (native)
-  - English (so-so)
+  - English (so-so, basic conversation)
   - Malay (started learning in Malaysia)
   - Chinese (started learning in Malaysia)
   - Korean (just started)
+</p>
+<p>
+
+### Language-related Certifications
+  - English
+    - TOEIC L&R 920
+    - TOEIC S&W 250
+  - Chinese
+    - HSK Level4
 </p>
 
 <!---
