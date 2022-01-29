@@ -42,8 +42,8 @@
 
 ### Language-related Certifications
   - English
-    - TOEIC L&R 920
-    - TOEIC S&W 250
+    - TOEIC L&R: Score 920
+    - TOEIC S&W: Score 250
   - Chinese
     - HSK Level4
 </p>
