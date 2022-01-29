@@ -34,8 +34,8 @@
 ### Languages that I have learned:
   - Japanese (native)
   - English (so-so, basic conversation)
-  - Malay (started learning in Malaysia)
-  - Chinese (started learning in Malaysia)
+  - Malay (started learning in Malaysia, easy daily conversation)
+  - Chinese (started learning in Malaysia, reading and writing for daily use)
   - Korean (just started)
 </p>
 <p>
