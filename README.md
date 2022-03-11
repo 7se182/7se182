@@ -17,12 +17,12 @@
   - Python (in total, a year's experience, mainly for data processing and analysis)
   - JavaScript (about a half year's experience, to study WebGL)
   - Swift (just started learning, for my interest)
+  - Java (just started learning, for my interest)
 </p>
 <p>
 
 ### The Other Programming Languages that I have studied before:
   - C++ (used in a lecture)
-  - Java (studied for my interest)
   - R (used in a lecture)
   - MATLAB (used in lectures and for my previous study)
 </p>
