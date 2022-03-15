@@ -17,7 +17,7 @@
   - Python (in total, a year's experience, mainly for data processing and analysis)
   - JavaScript (about a half year's experience, to study WebGL)
   - Swift (just started learning, for my interest)
-  - Java (just started learning, for my interest)
+  - Java (just started learning again, for my interest)
 </p>
 <p>
 
